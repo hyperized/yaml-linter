@@ -1,6 +1,8 @@
 # yaml-linter
 Tiny YAML linter Docker instance.
 
+Available as: `hyperized/yaml-linter` at: https://cloud.docker.com/u/hyperized/repository/docker/hyperized/yaml-linter
+
 Based on `ruby:alpine`.
 
 Image size: 26 MB
